@@ -25,4 +25,12 @@ Each problem is stored in a separate `.java` file.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/taniyatandon/DSA-Practice/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/taniyatandon/DSA-Practice/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/taniyatandon/DSA-Practice/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
