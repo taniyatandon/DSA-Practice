@@ -14,3 +14,15 @@ A structured collection of Java solutions for DSA practice from Weeks 3–10.
 - `Week10_LinkedList_LeetCode/` - Linked-list LeetCode problems
 
 Each problem is stored in a separate `.java` file.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/taniyatandon/DSA-Practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/taniyatandon/DSA-Practice/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
