@@ -29,8 +29,18 @@ Each problem is stored in a separate `.java` file.
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/taniyatandon/DSA-Practice/tree/master/0071-simplify-path) |
+| [0402-remove-k-digits](https://github.com/taniyatandon/DSA-Practice/tree/master/0402-remove-k-digits) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/taniyatandon/DSA-Practice/tree/master/0071-simplify-path) |
+| [0402-remove-k-digits](https://github.com/taniyatandon/DSA-Practice/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/taniyatandon/DSA-Practice/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/taniyatandon/DSA-Practice/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
