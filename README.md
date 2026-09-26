@@ -30,6 +30,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/taniyatandon/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/taniyatandon/DSA-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/taniyatandon/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/taniyatandon/DSA-Practice/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
@@ -39,10 +40,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/taniyatandon/DSA-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/taniyatandon/DSA-Practice/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/taniyatandon/DSA-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/taniyatandon/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/taniyatandon/DSA-Practice/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
