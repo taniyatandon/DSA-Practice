@@ -10,6 +10,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/taniyatandon/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/taniyatandon/DSA-Practice/tree/master/0394-decode-string) |
 ## Recursion
 |  |
@@ -56,4 +57,12 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/taniyatandon/DSA-Practice/tree/master/0229-majority-element-ii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/taniyatandon/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/taniyatandon/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
