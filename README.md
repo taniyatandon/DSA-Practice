@@ -33,6 +33,7 @@
 | [0073-set-matrix-zeroes](https://github.com/taniyatandon/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/taniyatandon/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/taniyatandon/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/taniyatandon/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/taniyatandon/DSA-Practice/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/taniyatandon/DSA-Practice/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/taniyatandon/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
