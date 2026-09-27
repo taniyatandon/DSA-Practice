@@ -6,12 +6,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/taniyatandon/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/taniyatandon/DSA-Practice/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/taniyatandon/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/taniyatandon/DSA-Practice/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/taniyatandon/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/taniyatandon/DSA-Practice/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/taniyatandon/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/taniyatandon/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/taniyatandon/DSA-Practice/tree/master/0394-decode-string) |
