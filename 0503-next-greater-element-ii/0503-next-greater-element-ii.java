@@ -2,7 +2,7 @@ class Solution {
     public int[] nextGreaterElements(int[] nums) {
         int[] arr= new int[nums.length];
         Arrays.fill(arr,-1);
-        Stack<Integer> st= new Stack<>();
+        Deque<Integer> st= new ArrayDeque<>();
         int n=nums.length;
         for(int i=2*n-1;i>=0;i--){
             int index=i%n;
