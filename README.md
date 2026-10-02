@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/taniyatandon/DSA-Practice/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -48,12 +49,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0460-lfu-cache) |
 ## Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
