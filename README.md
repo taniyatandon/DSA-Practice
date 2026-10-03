@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/taniyatandon/DSA-Practice/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/taniyatandon/DSA-Practice/tree/master/0039-combination-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/taniyatandon/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/taniyatandon/DSA-Practice/tree/master/0085-maximal-rectangle) |
 ## Stack
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0460-lfu-cache) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/taniyatandon/DSA-Practice/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
