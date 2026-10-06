@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/taniyatandon/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/taniyatandon/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/taniyatandon/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/taniyatandon/DSA-Practice/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/taniyatandon/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/taniyatandon/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/taniyatandon/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/taniyatandon/DSA-Practice/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
