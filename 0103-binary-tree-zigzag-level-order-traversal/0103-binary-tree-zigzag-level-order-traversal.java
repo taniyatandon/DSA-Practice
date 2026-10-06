@@ -25,8 +25,8 @@ class Solution {
             List<Integer> arr = new ArrayList<>();
             for(int i=0;i<n;i++){
                 TreeNode node=q.poll();
-                if(lr)arr.addLast(node.val);
-                else arr.addFirst(node.val);
+                if(lr)arr.add(node.val);
+                else arr.add(0,node.val);
                 if(node.left!=null)q.add(node.left);
                 if(node.right!=null)q.add(node.right);
             }
