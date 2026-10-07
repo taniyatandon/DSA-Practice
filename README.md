@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/taniyatandon/DSA-Practice/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/taniyatandon/DSA-Practice/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/taniyatandon/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/taniyatandon/DSA-Practice/tree/master/0040-combination-sum-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/taniyatandon/DSA-Practice/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0460-lfu-cache) |
 ## Linked List
