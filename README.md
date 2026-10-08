@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/taniyatandon/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/taniyatandon/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/taniyatandon/DSA-Practice/tree/master/0085-maximal-rectangle) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/taniyatandon/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
 | ------- |
@@ -120,4 +121,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/taniyatandon/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/taniyatandon/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/taniyatandon/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/taniyatandon/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/taniyatandon/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/taniyatandon/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
