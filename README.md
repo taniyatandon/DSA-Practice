@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/taniyatandon/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/taniyatandon/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/taniyatandon/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [1046-last-stone-weight](https://github.com/taniyatandon/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/taniyatandon/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/taniyatandon/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/taniyatandon/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [1046-last-stone-weight](https://github.com/taniyatandon/DSA-Practice/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
