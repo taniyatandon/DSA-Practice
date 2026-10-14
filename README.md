@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/taniyatandon/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/taniyatandon/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/taniyatandon/DSA-Practice/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/taniyatandon/DSA-Practice/tree/master/0641-design-circular-deque) |
 | [1046-last-stone-weight](https://github.com/taniyatandon/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/taniyatandon/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/taniyatandon/DSA-Practice/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/taniyatandon/DSA-Practice/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/taniyatandon/DSA-Practice/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/taniyatandon/DSA-Practice/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/taniyatandon/DSA-Practice/tree/master/0641-design-circular-deque) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/taniyatandon/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/taniyatandon/DSA-Practice/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/taniyatandon/DSA-Practice/tree/master/0641-design-circular-deque) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/taniyatandon/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
