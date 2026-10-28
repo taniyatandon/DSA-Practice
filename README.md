@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/taniyatandon/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/taniyatandon/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/taniyatandon/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/taniyatandon/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/taniyatandon/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/taniyatandon/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/taniyatandon/DSA-Practice/tree/master/0090-subsets-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/taniyatandon/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/taniyatandon/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/taniyatandon/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/taniyatandon/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/taniyatandon/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/taniyatandon/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/taniyatandon/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/taniyatandon/DSA-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/taniyatandon/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
