@@ -8,11 +8,8 @@ class Solution {
             for(int j=0; j<grid[0].length; j++){
                 if(grid[i][j] == '1' && !visited[i][j]){
                     count++;
-                    // Create queue
                     Queue<int[]>q=new LinkedList<>();
-                    // Mark starting cell visited
                     visited[i][j]=true;
-                    // Add starting coordinates
                     q.add(new int[]{i, j});
                     while(!q.isEmpty()){
                         int[] node = q.poll();
