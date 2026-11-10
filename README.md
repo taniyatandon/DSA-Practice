@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/taniyatandon/DSA-Practice/tree/master/0733-flood-fill) |
 | [0918-maximum-sum-circular-subarray](https://github.com/taniyatandon/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taniyatandon/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/taniyatandon/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/taniyatandon/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/taniyatandon/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/taniyatandon/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/taniyatandon/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/taniyatandon/DSA-Practice/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/taniyatandon/DSA-Practice/tree/master/1020-number-of-enclaves) |
 ## Design
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/taniyatandon/DSA-Practice/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/taniyatandon/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/taniyatandon/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/taniyatandon/DSA-Practice/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/taniyatandon/DSA-Practice/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/taniyatandon/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/taniyatandon/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/taniyatandon/DSA-Practice/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
 |  |
 | ------- |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/taniyatandon/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/taniyatandon/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/taniyatandon/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/taniyatandon/DSA-Practice/tree/master/1020-number-of-enclaves) |
 ## Binary Search
 |  |
 | ------- |
