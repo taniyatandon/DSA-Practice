@@ -4,12 +4,10 @@ class Solution {
         int[] delcols=new int[]{0,1,0,-1};
         int n=grid.length;
         int m=grid[0].length;
-        boolean[][] visited=new boolean[n][m];
         Queue<int[]> q=new LinkedList<>();
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(grid[i][j]==2){
-                    visited[i][j]=true;
                     q.add(new int[]{i,j,0});
                 }
             }
