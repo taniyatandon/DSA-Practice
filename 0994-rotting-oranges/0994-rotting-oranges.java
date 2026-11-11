@@ -24,15 +24,15 @@ class Solution {
             for(int i=0;i<4;i++){
                 int nr=row+delrows[i];
                 int nc=col+delcols[i];
-                if(nr>=0 && nr<n && nc>=0 && nc<m && !visited[nr][nc] && grid[nr][nc]==1){
-                    visited[nr][nc]=true;
+                if(nr>=0 && nr<n && nc>=0 && nc<m && grid[nr][nc]==1){
+                    grid[nr][nc]=2;
                     q.add(new int[]{nr,nc,time+1});
                 }
             }
         }
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(!visited[i][j] && grid[i][j]==1){
+                if(grid[i][j]==1){
                     return -1;
                 }
             }
