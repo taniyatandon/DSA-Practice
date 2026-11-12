@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taniyatandon/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/taniyatandon/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/taniyatandon/DSA-Practice/tree/master/1046-last-stone-weight) |
+| [1765-map-of-highest-peak](https://github.com/taniyatandon/DSA-Practice/tree/master/1765-map-of-highest-peak) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/taniyatandon/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/taniyatandon/DSA-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/taniyatandon/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/taniyatandon/DSA-Practice/tree/master/1020-number-of-enclaves) |
+| [1765-map-of-highest-peak](https://github.com/taniyatandon/DSA-Practice/tree/master/1765-map-of-highest-peak) |
 ## Design
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/taniyatandon/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/taniyatandon/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/taniyatandon/DSA-Practice/tree/master/1020-number-of-enclaves) |
+| [1765-map-of-highest-peak](https://github.com/taniyatandon/DSA-Practice/tree/master/1765-map-of-highest-peak) |
 ## DP on Trees
 |  |
 | ------- |
