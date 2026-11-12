@@ -2,15 +2,16 @@ class Solution {
     public int[][] highestPeak(int[][] isWater) {
         int n=isWater.length;
         int m=isWater[0].length;
-        boolean[][] visited=new boolean[n][m];
         int[][] ans=new int[n][m];
+        for(int[] row : ans){
+            Arrays.fill(row, -1);
+        }
         Queue<int[]> q=new LinkedList<>();
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(isWater[i][j]==1){
                     q.add(new int[]{i,j,0});
                     ans[i][j]=0;
-                    visited[i][j]=true;
                 }
             }
         }
@@ -24,10 +25,9 @@ class Solution {
             for(int k=0;k<4;k++){
                 int row=i+delrow[k];
                 int col=j+delcol[k];
-                if(row>=0 && row<n && col>=0 && col<m && !visited[row][col]){
+                if(row>=0 && row<n && col>=0 && col<m && ans[row][col] == -1){
                     q.add(new int[]{row,col,val+1});
                     ans[row][col]=val+1;
-                    visited[row][col]=true;
                 }
             }
         }
