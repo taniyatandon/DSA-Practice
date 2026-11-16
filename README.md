@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/taniyatandon/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/taniyatandon/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/taniyatandon/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/taniyatandon/DSA-Practice/tree/master/0085-maximal-rectangle) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/taniyatandon/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/taniyatandon/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/taniyatandon/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/taniyatandon/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/taniyatandon/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
