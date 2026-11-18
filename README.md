@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/taniyatandon/DSA-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/taniyatandon/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0146-lru-cache) |
+| [0451-sort-characters-by-frequency](https://github.com/taniyatandon/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0460-lfu-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/taniyatandon/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/taniyatandon/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/taniyatandon/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/taniyatandon/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/taniyatandon/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/taniyatandon/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sliding Window
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/taniyatandon/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/taniyatandon/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/taniyatandon/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/taniyatandon/DSA-Practice/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/taniyatandon/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/taniyatandon/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/taniyatandon/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0451-sort-characters-by-frequency](https://github.com/taniyatandon/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -381,4 +385,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/taniyatandon/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/taniyatandon/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/taniyatandon/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
