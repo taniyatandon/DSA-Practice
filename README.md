@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/taniyatandon/DSA-Practice/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/taniyatandon/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/taniyatandon/DSA-Practice/tree/master/0641-design-circular-deque) |
+| [0643-maximum-average-subarray-i](https://github.com/taniyatandon/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/taniyatandon/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/taniyatandon/DSA-Practice/tree/master/0733-flood-fill) |
 | [0918-maximum-sum-circular-subarray](https://github.com/taniyatandon/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/taniyatandon/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/taniyatandon/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/taniyatandon/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/taniyatandon/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
