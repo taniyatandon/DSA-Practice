@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/taniyatandon/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/taniyatandon/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/taniyatandon/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0234-palindrome-linked-list](https://github.com/taniyatandon/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/taniyatandon/DSA-Practice/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taniyatandon/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/taniyatandon/DSA-Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/taniyatandon/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/taniyatandon/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/taniyatandon/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/taniyatandon/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0146-lru-cache) |
+| [0234-palindrome-linked-list](https://github.com/taniyatandon/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0460-lfu-cache](https://github.com/taniyatandon/DSA-Practice/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/taniyatandon/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/taniyatandon/DSA-Practice/tree/master/0641-design-circular-deque) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/taniyatandon/DSA-Practice/tree/master/0010-regular-expression-matching) |
+| [0234-palindrome-linked-list](https://github.com/taniyatandon/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/taniyatandon/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
