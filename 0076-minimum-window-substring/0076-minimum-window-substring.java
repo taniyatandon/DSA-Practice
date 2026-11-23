@@ -18,8 +18,7 @@ class Solution {
                 have++;
             }
             while(have==required){
-                if(right-left+1<best[0])
-                best=new int[]{right-left+1,left,right};
+                if(right-left+1<best[0]) best=new int[]{right-left+1,left,right};
                 char l=s.charAt(left++);
                 window.put(l,window.getOrDefault(l,0)-1);
                 if(mp.containsKey(l) && window.get(l)<mp.get(l)){
