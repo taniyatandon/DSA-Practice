@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/taniyatandon/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/taniyatandon/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/taniyatandon/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0493-reverse-pairs](https://github.com/taniyatandon/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/taniyatandon/DSA-Practice/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/taniyatandon/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/taniyatandon/DSA-Practice/tree/master/0641-design-circular-deque) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/taniyatandon/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/taniyatandon/DSA-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/taniyatandon/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/taniyatandon/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/taniyatandon/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Quickselect
 |  |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/taniyatandon/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/taniyatandon/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0493-reverse-pairs](https://github.com/taniyatandon/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/taniyatandon/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
@@ -461,4 +464,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/taniyatandon/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/taniyatandon/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/taniyatandon/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/taniyatandon/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/taniyatandon/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/taniyatandon/DSA-Practice/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
