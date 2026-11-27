@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/taniyatandon/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/taniyatandon/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/taniyatandon/DSA-Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/taniyatandon/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
