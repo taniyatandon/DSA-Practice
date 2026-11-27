@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/taniyatandon/DSA-Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/taniyatandon/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/taniyatandon/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/taniyatandon/DSA-Practice/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/taniyatandon/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/taniyatandon/DSA-Practice/tree/master/0040-combination-sum-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/taniyatandon/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/taniyatandon/DSA-Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/taniyatandon/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/taniyatandon/DSA-Practice/tree/master/0234-palindrome-linked-list) |
@@ -485,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/taniyatandon/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/taniyatandon/DSA-Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
