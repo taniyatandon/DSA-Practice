@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/taniyatandon/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/taniyatandon/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/taniyatandon/DSA-Practice/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/taniyatandon/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/taniyatandon/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/taniyatandon/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/taniyatandon/DSA-Practice/tree/master/0042-trapping-rain-water) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/taniyatandon/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/taniyatandon/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/taniyatandon/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/taniyatandon/DSA-Practice/tree/master/0200-number-of-islands) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/taniyatandon/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/taniyatandon/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/taniyatandon/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/taniyatandon/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/taniyatandon/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/taniyatandon/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
